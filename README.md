@@ -1,4 +1,4 @@
-# ML---Classification
+# ML-Classification
 Flowers-Classification Using Neural Networks
 
 The Given Python file uses two hidden layers to classify three different types of flowers which are given in the data set (iris.csv) attachetd along with it.
