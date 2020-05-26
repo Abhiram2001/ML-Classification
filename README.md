@@ -12,4 +12,4 @@ Except numpy no other packages are used in the file.
 
 To Install numpy use command "pip install numpy" in your cmd propmpt
 
-Make Sure the csv file and the python file in the same directory to avoid importing Error.
+Make Sure the csv file and the python file in the same directory to avoid importing Error else give the file location in importing statement.
