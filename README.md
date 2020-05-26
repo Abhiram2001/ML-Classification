@@ -8,7 +8,7 @@ you can alter the Hidden layer - 1 size by editing the h1size Variable for chang
 you can alter the Hidden layer - 2 size by editing the h2size Variable for changing in the accuracy.
 
 It uses sigmoid function for the caluculating the change or slope for the weights.
-Except numpy no other packages are used in the file.
+Except numpy no other packages are used in implementing nueral network.
 
 To Install numpy use command "pip install numpy" in your cmd propmpt
 
